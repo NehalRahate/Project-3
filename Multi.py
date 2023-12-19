@@ -1,3 +1,3 @@
-x = 56 
-y = 7
+x = int(input)
+y = int(input)
 print(x * y)
